@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sebastian,
+# Sebastian Hernandez - Fullstack Engineer
 - i'm a student of computer engineer 🚀
 - 🌱 I’m currently learning react
 - please, contact me by my email ... 
